@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Daniel Suescun</h1>
-<h3 align="center">Soy un Desarrollador FullStack que ama todo lo, muy interesado en la innovación y el desarrollo de software</h3>
+<h3 align="center">Soy un Desarrollador FullStack que ama todo lo relacionado con la tecnologia, programacion, muy interesado en la innovación y el desarrollo de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suosdacha19&label=Profile%20views&color=0e75b6&style=flat" alt="suosdacha19" /> </p>
 
